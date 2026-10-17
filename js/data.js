@@ -229,8 +229,8 @@ const PORTFOLIO = {
       date: 'April 2022',
       category: 'Video Editing',
       description: 'Penghargaan atas karya editing bertema bus dalam kompetisi komunitas.',
-      image: 'assets/images/awards/pengumuman.jpeg',
-      gallery: ['assets/images/awards/pengumuman.jpeg'],
+      image: 'assets/images/awards/Pengumuman.jpeg',
+      gallery: ['assets/images/awards/Pengumuman.jpeg'],
       videoPreview: 'assets/videos/video lomba.mp4'
     }
   ],
