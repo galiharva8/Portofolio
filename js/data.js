@@ -18,7 +18,7 @@ const PORTFOLIO = {
       categoryLabel: 'Development',
       year: '2025',
       tools: ['PHP', 'Laravel', 'MySQL', 'API'],
-      image: 'assets/images/projects/Web Alhijrah/Halaman Utama.png',
+      image: 'assets/images/projects/Web Al Hijrah/Halaman Utama.png',
       featured: true,
       description: 'Sistem pemesanan tiket bus dengan fitur yang lebih kompleks, integrasi API, dan payment gateway.',
       role: 'Full-stack development — backend, database design, API integration.',
