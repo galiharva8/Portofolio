@@ -25,16 +25,16 @@ const PORTFOLIO = {
       process: 'Analisis kebutuhan, perancangan database, implementasi Laravel, integrasi API pembayaran, dan pengujian alur pemesanan.',
       externalLink: '',
       gallery:
-      ['assets/images/projects/Web Alhijrah/Halaman Utama.png',
-        'assets/images/projects/Web Alhijrah/Login.png',
-        'assets/images/projects/Web Alhijrah/Armada.png',
-        'assets/images/projects/Web Alhijrah/Interior.png',
-        'assets/images/projects/Web Alhijrah/Tentang Kami.png',
-        'assets/images/projects/Web Alhijrah/Rute Tersedia.png',
-        'assets/images/projects/Web Alhijrah/Pilih Kursi.png',
-        'assets/images/projects/Web Alhijrah/Isi Data Diri.png',
-        'assets/images/projects/Web Alhijrah/Pembayaran.png',
-        'assets/images/projects/Web Alhijrah/E-Tiket.png',]
+      ['assets/images/projects/Web Al Hijrah/Halaman Utama.png',
+        'assets/images/projects/Web Al Hijrah/Login.png',
+        'assets/images/projects/Web Al Hijrah/Armada.png',
+        'assets/images/projects/Web Al Hijrah/Interior.png',
+        'assets/images/projects/Web Al Hijrah/Tentang Kami.png',
+        'assets/images/projects/Web Al Hijrah/Rute Tersedia.png',
+        'assets/images/projects/Web Al Hijrah/Pilih Kursi.png',
+        'assets/images/projects/Web Al Hijrah/Isi Data Diri.png',
+        'assets/images/projects/Web Al Hijrah/Pembayaran.png',
+        'assets/images/projects/Web Al Hijrah/E-Tiket.png',]
     },
     {
       id: 'social-media-feed',
