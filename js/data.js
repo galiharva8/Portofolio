@@ -231,7 +231,7 @@ const PORTFOLIO = {
       description: 'Penghargaan atas karya editing bertema bus dalam kompetisi komunitas.',
       image: 'assets/images/awards/Pengumuman.jpeg',
       gallery: ['assets/images/awards/Pengumuman.jpeg'],
-      videoPreview: 'assets/videos/video lomba.mp4'
+      videoPreview: 'assets/videos/Video Lomba.mp4'
     }
   ],
 
